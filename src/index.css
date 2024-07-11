@@ -5,3 +5,7 @@
 *{
         min-width: 0px;
 }
+
+input {
+        color-scheme: dark;
+}
